@@ -1,0 +1,291 @@
+Sno,AOriginalL,BPridictedL,CommonAB,WordsV,A,B,C,CSverseA,CSAB,CSAC,Hamming,Recall,Precision,F1
+2,doubt fear,book guidance fear Allah,fear,16,2,4,1,0.534522484,0.353553391,0.707106781,0.5,0.5,0.25,0.333333333
+3,believe unseen prayer,believe unseen prayer,unseen believe prayer,19,3,3,3,0.707106781,1,1,0,1,1,1
+4,revelation hereafter,revelation hereafter,revelation hereafter,24,2,2,2,0.40824829,1,1,0,1,1,1
+5,prosper  guidance,prosper  guidance,guidance prosper,15,2,2,2,0.707106781,1,1,0,1,1,1
+6,faith believe          ,faith believe,believe faith,25,2,2,2,0.471404521,1,1,0,1,1,1
+7,Allah seal  veil          ,Allah seal  veil,seal Allah veil,25,3,3,3,0.522232968,1,1,0,1,1,1
+8,believe hereafter,believe hereafter,believe hereafter,22,2,2,2,0.447213595,1,1,0,1,1,1
+9,deceive           ,deceive,deceive,18,1,1,1,0.666666667,1,1,0,1,1,1
+10,disease           ,disease,disease,25,1,1,1,0.603022689,1,1,0,1,1,1
+11,mischief           ,mischief,mischief,21,1,1,1,0.316227766,1,1,0,1,1,1
+12,realise  mischief          ,realise  mischief,realise mischief,15,2,2,2,0.632455532,1,1,0,1,1,1
+13,believe  fools          ,believe  fools,fools believe,33,2,2,2,0.816496581,1,1,0,1,1,1
+14,believe evil  hypocrite         ,believe evil  hypocrite,evil hypocrite believe,30,3,3,3,0.462910049,1,1,0,1,1,1
+15,prolong  transgression  wander  blindly        ,prolong  transgression  wander blindly,wander prolong transgression blindly,14,4,4,4,0.612372436,1,1,0,1,1,1
+16,bartered  guidance error         ,bartered  guidance error,bartered guidance error,20,3,3,3,0.612372436,1,1,0,1,1,1
+17,example  kindled fire          ,example  kindled fire,fire kindled example,33,3,3,3,0.298142397,1,1,0,1,1,1
+18,deaf dumb blind         ,deaf dumb blind,dumb deaf blind,11,3,3,3,0.774596669,1,1,0,1,1,1
+19,rain  thunder terror of death         ,rain  thunder terror of death,thunder  rain terror of death,52,5,5,5,0.319801075,1,1,0,1,1,1
+20,snaches light Allah hath power         ,snatches away sight light  darkness,light,48,5,5,1,0.40824829,0.2,0.447213595,0.451304348,0.2,0.2,0.2
+21,adore  righteousness          ,adore  righteousness,righteousness adore,24,2,2,2,0.39223227,1,1,0,1,1,1
+22,earth  resting place sky canopy  rivals       ,earth resting place sky canopy  rivals unto Allah,canopy sky  resting place rivals earth,40,6,8,6,0.425628265,0.866025404,1,0.035714286,1,0.75,0.857142857
+23,doubt produce a Sura          ,doubt produce a Sura, produce a Sura doubt,42,4,4,4,0.397359707,1,1,0,1,1,1
+24,fear fire fuel men  stone  reject faith      ,fear fire fuel men  stone,fear fuel men stone fire,28,7,5,5,0.534522484,0.845154255,0.845154255,0,0.714285714,1,0.833333333
+25,glade believe garden         ,glade believe garden,glade garden believe,60,3,3,3,0.102062073,1,1,0,1,1,1
+26,disbelieve stray similitude         ,disbelieve stray similitude,similitude disbelieve stray,64,3,3,3,0.356348323,1,1,0,1,1,1
+27,covet Allah order mischief          ,covenant Allah order mischief,order mischief Allah,30,4,4,3,0.288675135,0.75,0.866025404,0,0.75,0.75,0.75
+28,faith life die         ,faith life die,life faith die,40,3,3,3,0.545544726,1,1,0,1,1,1
+29,creator  perfection heaven  seven firmaments  perfect knowledge      ,creator  perfection heaven,creator heaven perfection,38,7,3,3,0.412393049,0.654653671,0.654653671,0,0.428571429,1,0.6
+30,shed blood  praises  glorify  scnctify angel       ,shed blood  praises  glorify,praises glorify blood shed,48,6,4,4,0.238196534,0.816496581,0.816496581,0,0.666666667,1,0.8
+31,taught adam names angels         ,taught adam names angels,taught adam angels names,28,4,4,4,0.693375245,1,1,0,1,1,1
+32, knowledge  wisdom          ,knowledge  wisdom,wisdom knowledge,28,2,2,2,0.474341649,1,1,0,1,1,1
+33,Adam  heaven          ,Adam  heaven,Adam heaven,39,2,2,2,0.282842712,1,1,0,1,1,1
+34,bow down  Adam Iblis         ,bow down  Adam Iblis,Adam Iblis bow down,30,4,4,4,0.522232968,1,1,0,1,1,1
+35,paradise Adam prohibited tree         ,paradise Adam prohibited tree,prohibited tree heaven Adam,30,4,4,4,0.400891863,1,0.75,0,1,1,1
+36,devil slip paradise          ,devil slip paradise,devil heaven slip,50,3,3,3,0.123091491,1,0.666666667,0,1,1,1
+37,inspiration learnt words merciful         ,inspiration learnt words merciful, learnt words merciful inspiration,21,4,4,4,0.577350269,1,1,0,1,1,1
+38, guidance fear grief         ,guidance fear grief,fear grief guidance,34,3,3,3,0.420084025,1,1,0,1,1,1
+39,companion fire          ,companion fire,fire companion,20,2,2,2,0.204124145,1,1,0,1,1,1
+40,israel fear convet         ,israel fear covenant,fear israel,33,3,3,2,0.272165527,0.666666667,0.816496581,0.128571429,0.666666667,0.666666667,0.666666667
+41,reveal reject faith sell sign         ,reveal reject faith sell sign,reject  faith sign reveal ,36,5,5,4,0.478091444,1,0.894427191,0,0.8,0.8,0.8
+42,truth false hood          ,truth false hood,truth,16,3,3,1,0.384900179,1,0.577350269,0,0.333333333,0.333333333,0.333333333
+43,prayer zakah          ,prayer zakah,prayer zakah,20,2,2,2,0.213200716,1,1,0,1,1,1
+44,conduct practice          ,right conduct practise,conduct,24,2,3,1,0.162221421,0.40824829,0.707106781,0.265217391,0.5,0.333333333,0.4
+45,patient prayer ethics         ,patient prayer,patient prayer,21,3,2,2,0.320256308,0.816496581,0.816496581,0.3286,0.666666667,1,0.8
+46,meet  lord          ,meet  lord, lord,21,2,2,1,0.577350269,1,0.707106781,0,0.5,0.5,0.5
+47,Israel favour          ,Israel favour,favour Israel,25,2,2,2,0.447213595,1,1,0,1,1,1
+48,day of judgement           ,day of judgement, judgement,34,3,3,1,0.131306433,1,0.707106781,0,0.333333333,0.333333333,0.333333333
+49,Pharaoh  slaughter son         ,Pharaoh  slaughter son,slaughter son Pharaoh,33,3,3,3,0.140028008,1,1,0,1,1,1
+50,divide sea drown Pharaoh         ,divide sea drown Pharaoh,divide sea drown Pharaoh ,19,4,4,4,0.166666667,1,1,0,1,1,1
+51,worship calf           ,worship calf,worship calf,23,2,2,2,0.365148372,1,1,0,1,1,1
+52,forgive grateful          ,forgive grateful,grateful forgive,15,2,2,2,0.707106781,1,1,0,1,1,1
+53,Moses right wrong         ,Moses right wrong, right wrong Moses,24,3,3,3,0.547722558,1,1,0,1,1,1
+54,Moses worship calf slay merciful        ,Moses worship calf slay merciful,calf worship merciful Moses slay,58,5,5,5,0.447213595,1,1,0,1,1,1
+55,believe Allah  thunder         ,believe Allah  thunder,thunder Allah believe,30,3,3,3,0.353553391,1,1,0,1,1,1
+56,death  greatful         , death  greatful,greatful death,15,2,2,2,0.316227766,1,1,0,1,1,1
+57,cloud  manna  quils         ,cloud  manna  quils,cloud quils manna,42,3,3,3,0.144337567,1,1,0,1,1,1
+58,humility forgive          ,humility forgive,humility forgive,41,2,2,2,0.3086067,1,1,0,1,1,1
+59,transgressor punishment          ,transgressor punishment,transgress punishment,30,2,2,2,0.196116135,1,0.5,0,1,1,1
+60,gushe  drinking place  wickedly         ,gushe  drinking place  wickedly,wickedly gushe drinking place,51,4,4,4,0.179605302,1,1,0,1,1,1
+61,garlic humiliation misery  warth      ,garlic humiliation misery  wrath of Allah,garlic humiliation  misery ,101,4,6,3,0.166666667,0.670820393,0.866025404,0.136363636,0.75,0.5,0.6
+62,jews sabians believe last day        ,jews sabians believe last day,last day  believe  sabians jews,48,5,5,5,0.422577127,1,1,0,1,1,1
+63,fear Allah hold firmly         ,fear Allah hold firmly,fear hold firmly Allah ,39,4,4,4,0.43643578,1,1,0,1,1,1
+64,grace mercy          ,grace mercy,mercy grace,25,2,2,2,0.39223227,1,1,0,1,1,1
+65,subbath           ,transgress  Sabbath,Sabbath,25,1,2,1,0,0,1,0.536363636,1,0.5,0.666666667
+66,deterrent punishment lesson         ,deterrent punishment lesson,deterrent lesson punishment,22,3,3,3,0.612372436,1,0.353553391,0,1,1,1
+67,Moses heifer sacrify         ,Moses heifer sacrify,Moses heifer sacrify,32,3,3,3,0.222222222,1,0.5,0,1,1,1
+68, age order        , age order, age order ,41,2,2,2,0.147441956,1,1,0,1,1,1
+69,color pure rich in tone         ,color pure rich in tone,tone pure rich in color,31,5,5,5,0.335410197,1,0.577350269,0,1,1,1
+70,heifers guidance          ,heifers guidance,guidance heifers,30,2,2,2,0.333333333,1,1,0,1,1,1
+71, trained plough   field  sound blemish        ,trained plough field,trained plough field,38,5,3,3,0.292770022,0.774596669,1,0.4252,0.6,1,0.75
+72, dispute slew          ,dispute slew,dispute slew,26,2,2,2,0.365148372,1,0.816496581,0,1,1,1
+73,hifer piece dead  life         ,stike heifer dead  life,life death,28,4,4,2,0.375,0.5,1,0.418235294,0.5,0.5,0.5
+74, heart harden           ,heart harden,heart hard,53,2,2,2,0,1,1,0,1,1,1
+75,hope believe          ,hope believe,hope believe,35,2,2,2,0.34299717,1,0.816496581,0,1,1,1
+76,meet   private faith  Allah  halth reveale       ,faith private,faith private,51,6,2,2,0.40824829,0.577350269,1,0.679,0.333333333,1,0.5
+77,conceal  reveal          ,conceal  reveal,conceal reveal,13,2,2,2,0.632455532,1,1,0,1,1,1
+78,illiterate  conjecture          ,illiterate  conjecture,illiterate conjecture,23,2,2,2,0.23570226,1,0.774596669,0,1,1,1
+79, woe write book          ,woe write book,woe book,43,3,3,2,0.629940788,1,1,0,0.666666667,0.666666667,0.666666667
+80,fire promise Allah         ,fire promise Allah,fire Allah promise,42,3,3,3,0.481125224,1,1,0,1,1,1
+81,girt  evil fire         ,girt round evil fire,fire girt  evil,26,3,4,3,0.480384461,0.866025404,1,0,1,0.75,0.857142857
+82,companioin garden faith         ,companion garden faith,garden faith,20,3,3,2,0.384900179,0.666666667,1,0,0.666666667,0.666666667,0.666666667
+83,worship Allah kindness parents  orphan       ,worship Allah kindness parents kinder orphan, Allah kindness worship orphan parents,59,5,6,5,0.311399578,0.912870929,1,0,1,0.833333333,0.909090909
+84,shed  blood turn out homes         ,shed  blood turn out homes,turn out homes blood  shed,35,5,5,5,0.471404521,1,1,0,1,1,1
+85,slay Day of Judgment ransom penalty        ,slay Day of judgment ransom penalty,Judgment   ransom slay,112,6,6,3,0.279508497,1,1,0.037037037,0.5,0.5,0.5
+86,buy life hereafter         ,buy life hereafter,buy life hereafter,28,3,3,3,0.480384461,1,0.912870929,0,1,1,1
+87,Moses book Jesus holy spirit messenger slay      ,Moses book Jesus holy spirit messenger slay,holy spirit messenger Jesus Moses book slay,60,7,7,7,0.403473292,1,1,0,1,1,1
+88,heart wrapp curse         ,heart wrapp curse,heart curse wrapp,29,3,3,3,0.149071198,1,1,0,1,1,1
+89,book Allah victory  faith believe       ,book Allah victory  faith believe,Allah believe victory faith book,55,5,5,5,0.613940614,1,1,0,1,1,1
+90, sold  insolent  drawn wrath         ,sold  insolent  drawn wrath,wrath insolent drawn sold,59,4,4,4,0.472455591,1,1,0,1,1,1
+91,believe prophet          ,believe prophet,prophet believe,58,2,2,2,0.33968311,1,1,0,1,1,1
+92,Moses worship calf         ,Moses worship calf,worship Moses calf,21,3,3,3,0.3086067,1,1,0,1,1,1
+93,covet hold firmly sinai disobey faithlessness       ,covenant hold firmly sinai disobey faithlessness,disobey sinai hold firmly faithlessness,70,6,6,5,0.366617788,0.833333333,0.816496581,0.16135,0.833333333,0.833333333,0.833333333
+94,last home seek death          ,last home seek death,last seek home death,25,4,4,4,0.534522484,1,1,0,1,1,1
+95,Allah  well-acquainted wrong doers         ,Allah  well-acquainted wrong doers,well-acquainted wrong Allah doers,27,4,4,4,0.316227766,1,0.707106781,0,1,1,1
+96, long life punishment          ,long life punishment,long life punishment,52,3,3,3,0.346410162,1,1,0,1,1,1
+97,enemy of Gabriel  brings down revelation        ,enemy of Gabriel  brings down revelation,down of revelation brings Gabriel enemy,33,6,6,6,0.387298335,1,0.707106781,0,1,1,1
+98,enemy  Allah messenger angel        ,enemy  Allah messenger angel,enemy Allah angel messenger,25,4,4,4,0.5,1,1,0,1,1,1
+99,manifest sign perverse          ,manifest sign perverse,perverse sign manifest,18,3,3,3,0.40824829,1,1,0,1,1,1
+100,covet threw aside          ,covenant threw aside,aside threw,25,3,3,2,0.174077656,0.666666667,1,0.1326,0.666666667,0.666666667,0.666666667
+101,messenger confirming books          ,messenger confirming books,books confirming messenger,42,3,3,3,0.264906471,1,1,0,1,1,1
+102,recited trail  share  sold        ,recited  harmful  share,recited share,127,4,3,2,0.058925565,0.577350269,1,0.3946,0.5,0.666666667,0.571428571
+103, guarded evil reward         ,guarded evil reward,guarded reward evil,24,3,3,3,0.577350269,1,1,0,1,1,1
+104,raina unzurna ambiguous words         ,ambiguous words words of respect,words ambiguous,29,4,5,2,0.353553391,0.612372436,0.5,0.513,0.5,0.4,0.444444444
+105,faith people          ,faith people,people faith,49,2,2,2,0.288675135,1,0.866025404,0,1,1,1
+106,abrogate  forgotten Allah hath power         ,abrogate revealed  forgotten Allah hath power,abrogate Allah hath forgotten power,29,5,6,5,0.577350269,0.912870929,0.632455532,0,1,0.833333333,0.909090909
+107,Allah is king patron          ,Allah is king patron,king patron Allah is,24,4,4,4,0.333333333,1,0.866025404,0,1,1,1
+108,strayed           ,strayed,strayed,26,1,1,1,0.242535625,1,1,0,1,1,1
+109,turn back Allah hath power          ,turn back Allah hath power,back Allah hath power turn,49,5,5,5,0.529150262,1,0.801783726,0,1,1,1
+110,prayer charity          ,prayer charity,prayer charity,34,2,2,2,0.277350098,1,0.816496581,0,1,1,1
+111,paradise proof          ,paradise proof,proof heaven,28,2,2,2,0.34299717,1,1,0,1,1,1
+112,doer of good no fear grieve         ,doer of good no fear,fear good doer no of,32,6,5,5,0.48507125,0.866025404,1,0.1625,0.833333333,1,0.909090909
+113,Jews Christians blame Allah judge       ,Jews Christians,Christians Jews,54,5,2,2,0.414039336,0.632455532,0.774596669,0.4973,0.4,1,0.571428571
+114,cruel forbid worship disgrace         ,injustice forbid worship disgrace,worship forbid disgrace,62,4,4,3,0.2,0.75,1,0.2483,0.75,0.75,0.75
+115, Allah pervading every where         ,Allah pervading every where,every Allah where pervading,22,4,4,4,0.40824829,1,1,0,1,1,1
+116,son of GOD every thing  God         ,son of God everything,God son of,28,6,4,3,0.104828484,0.654653671,0,0.1686,0.5,0.75,0.6
+117,originator create automatically          ,originator create by order,originator create,26,3,4,2,0,0.666666667,0.5,0.3352,0.666666667,0.5,0.571428571
+118,speak hold firmly Faith         ,speak hold firmly Faith,firmly speak hold Faith,50,4,4,4,0.237170825,1,0.5,0,1,1,1
+119,glade tiding warner question fire        ,glade tiding warner question fire,glade question tiding fire warner,31,5,5,5,0.325395687,1,1,0,1,1,1
+120,Christians Jews unhappy religion  guidance       ,Jews Christians contentment  religion,religion Christians Jews,50,5,4,3,0.349215148,0.670820393,0.866025404,0.2364,0.6,0.75,0.666666667
+121,book believe faith lose        ,book believe faith lose,lose book believe faith,32,4,4,4,0.416025147,1,1,0,1,1,1
+122,children israel favour preffere        ,children israel favour preffere,children favour israel preffere,26,4,4,4,0.452267017,1,1,0,1,1,1
+123, compansation Day of Judgment          ,day of judgement,of,32,4,3,1,0.107211253,0.40824829,1,0.2353,0.25,0.333333333,0.285714286
+124,Ibraham test pass leader        ,Abraham test  Imam,test,46,4,3,1,0,0.288675135,1,0.50123,0.25,0.333333333,0.285714286
+125,Kaaba piece tawaf itikaf        ,Kaaba place of worship Abraham  Ismail sanctify it,Kaaba,61,4,8,1,0,0.204124145,1,0.7462,0.25,0.125,0.166666667
+126,Abraham city of peace fruit last day        ,Abraham city of peace fruit last day,city last of day peace Abraham fruit,58,7,7,7,0.379049022,1,1,0,1,1,1
+127,Abraham Ismail foundation Kaba        ,Abraham ismail foundation Kaba,foundation Abraham Kaba,28,4,4,3,0.25819889,1,0.707106781,0,0.75,0.75,0.75
+128,obedient progeny          ,obedient progeny,progeny obedient,44,2,2,2,0.119522861,1,1,0,1,1,1
+129,messenger sanctify wise         ,messenger sanctify wise,sanctify wise messenger,36,3,3,3,0.420084025,1,1,0,1,1,1
+130,folly soul          ,folly soul,folly soul,39,2,2,2,0.188982237,1,1,0,1,1,1
+131,lord bow          ,lord bow,lord bow,25,2,2,2,0.707106781,1,1,0,1,1,1
+132,Abraham sons religion islam         ,Abraham sons religion islam,sons Abraham islam religion,34,4,4,4,0.458831468,1,0.577350269,0,1,1,1
+133,jacob worship          ,jacob worship,worship jacob,48,2,2,2,0.353553391,1,1,0,1,1,1
+134,fruit of deeds           ,reap fruit merits,fruit,33,3,3,1,0.188982237,0.40824829,1,0.6333,0.333333333,0.333333333,0.333333333
+135,Jews Christians oneness God        ,Jews Christians oneness God,God oneness Christians Jews,32,4,4,4,0.208514414,1,1,0,1,1,1
+136,believe in Allah revelation          ,believe in Allah revelation,revelation Allah believe in,54,4,4,4,0.402015126,1,1,0,1,1,1
+137,believe right path all hearing all knowing        ,believe right path all hearing all knowing,knowing hearing believe all right path,41,7,7,6,0.447213595,1,0.894427191,0,0.857142857,0.857142857,0.857142857
+138,baptism of Allah           ,baptism of Allah,baptism Allah of,21,3,3,3,0.707106781,1,1,0,1,1,1
+139,common lord dispute          ,dispute  Lord  responsible,dispute,38,3,3,1,0.420084025,0.666666667,1,0.3356,0.333333333,0.333333333,0.333333333
+140,Allah knows better           ,Allah knows better,better Allah knows,47,3,3,3,0.384900179,1,1,0,1,1,1
+141,reap fruit merits          ,reap fruit merits,fruit reap merits,33,3,3,3,0.46291005,1,0.707106781,0,1,1,1
+142,fools  turn Qibla         ,fools  turn Qibla,fools turn Qibla,38,3,3,3,0.272165527,1,1,0,1,1,1
+143,ummat witness merciful         ,ummat witness merciful,ummat witness merciful,89,3,3,3,0.237915476,1,1,0,1,1,1
+144,turned face direction  sacred mosque         ,turned face direction  sacred Mosque,direction turned face sacred,67,5,5,4,0.387298335,1,1,0.039215686,0.8,0.8,0.8
+145,people of book follow qibla          ,people of book follow qibla,follow of qibla people book,59,5,5,5,0.526685162,1,1,0,1,1,1
+146,people of book feel Muhammad  conceal truth         ,people of book feel Muhammad  conceal truth,conceal Muhammad of feel people book truth,24,7,7,7,0.43643578,1,0.866025404,0,1,1,1
+147,trust lord doubt         ,trust lord doubt,trust lord doubt,13,3,3,3,0.577350269,1,1,0,1,1,1
+148,leed goodness Allah has power          ,leed good place Allah is powerful,leed Allah,37,5,6,2,0.4,0.447213595,1,0.2532,0.4,0.333333333,0.363636364
+149,turn face  sacred Mosque          ,turn face  sacred Mosque,face sacred Mosque turn,32,4,4,4,0.5,1,1,0,1,1,1
+150,turn face sacred Mosque favour         ,turn face sacred Mosque favour,favour Mosque face sacred turn,68,5,5,5,0.419058177,1,1,0,1,1,1
+151,messenger favour scripture wisdom knowledge       ,messenger favour scripture wisdom knowledge,wisdom favour messenger scripture knowledge,38,5,5,5,0.559016994,1,0.447213595,0,1,1,1
+152,remember me be greatful          ,remember me be greatful,me remember be greatful,18,4,4,4,0.577350269,1,0.866025404,0,1,1,1
+153,help patient prayer persever        ,help patient prayer persever,persever patient prayer ,19,4,4,3,0.474341649,1,0.866025404,0,0.75,0.75,0.75
+154,martyr live          ,martyr live,martyr live,25,2,2,2,0,1,1,0,1,1,1
+155,test you fear hunger patient persevere       ,test you fear hunger patient persevere,fear hunger persevere test patient you,33,6,6,6,0.447213595,1,1,0,1,1,1
+156,afflict calamity Allah we belong         ,afflict calamity Allah we belong,calamity Allah belong afflict we,17,5,5,5,0.612372436,1,0.707106781,0,1,1,1
+157,blessing Allah Mercy         ,blessing Allah Mercy,Mercy Allah blessing,19,3,3,3,0.43643578,1,1,0,1,1,1
+158,safa marva haj circumambulation  umrah      ,Safa marwa haj,haj,36,5,3,1,0.095346259,0.516397779,1,0.3132,0.2,0.333333333,0.25
+159,conceal orders Allah curse          ,conceal orders curse,conceal orders curse,38,4,3,3,0.417028828,0.866025404,1,0.2541,0.75,1,0.857142857
+160,repent  Merciful          ,repentance,,22,2,1,1,0.447213595,0,0.769800359,1,0.5,1,0.666666667
+161,un believer  Allah curse  angels  mankind        ,reject faith curse  angels  mankind,angels mankind curse,21,6,5,3,0.492365964,0.547722558,0.707106781,0.1643,0.5,0.6,0.545454545
+162,abide respite          ,abide respite,respite abide,16,2,2,2,0.577350269,1,1,0,1,1,1
+163,oneness of  Allah gracious merciful         ,oneness of  Allah gracious merciful,oneness Allah gracious of merciful,16,5,5,5,0.707106781,1,1,0,1,1,1
+164,heaven earth day night ship ocean sign of God     ,heaven earth day night ship ocean sign of God,night ocean sign of day God ship heaven earth,99,9,9,9,0.353553391,1,1,0,1,1,1
+165,worship beside Allah penalty power belong to Allah         ,worship instead of Allah penalty,penalty worship Allah,59,8,5,3,0.637455258,0.666666667,0.769800359,0.6667,0.375,0.6,0.461538462
+166,penalty relation cut off         ,followed penalty,penalty,27,4,2,1,0.144337567,0,0.577350269,0.7342,0.25,0.5,0.333333333
+167,idol worshipper un follow chance         ,one more chance clear ourselves,chance,52,5,5,1,0.1,0.25819889,0.447213595,0.8342,0.2,0.2,0.2
+168,eat permissible foot steps evil enemy        ,eat permissible foot steps evil enemy,permissible evil eat steps foot enemy,30,6,6,6,0.353553391,1,1,0,1,1,1
+169,evil shameful misguide         ,evil shameful misguide,shameful evil misguide,23,3,3,3,0.365148372,1,1,0,1,1,1
+170,follow Aallah way of fathers          ,Allah revealed follow fathers,follow fathers,33,5,4,2,0.43643578,0.5,0.707106781,0.2532,0.4,0.5,0.444444444
+171,not believer shout deaf blind dumb       ,not believer shout deaf blind dumb,not shout believer deaf blind dumb,36,6,6,6,0.433860916,1,1,0,1,1,1
+172,good things  grateful to Allah          ,good things  grateful to Allah,good things  grateful  Allah,26,5,5,4,0.577350269,1,1,0,0.8,0.8,0.8
+173,forbidden dead meat blood flesh of swine  obedient transgress      ,forbidden dead meat blood flesh of swine  obedient transgress,flesh swine obedient forbidden blood meat dead of transgress,53,9,9,9,0.393919299,1,1,0,1,1,1
+174,conceal revelation  fire          ,conceal revelation  fire,fire conceal revelation,40,3,3,3,0.280056017,1,1,0,1,1,1
+175,error guidance torment bear fire        ,error guidance torment bear fire,error guidance torment bear fire,25,5,5,5,0.478091444,1,1,0,1,1,1
+176,holy book dispute schism         ,holy book dispute schism,holy schism book dispute,29,4,4,4,0.534522484,1,1,0,1,1,1
+177,righteousness ransom slaves suffering hardship periods of panic      ,righteousness ransom slaves suffering,ransom righteousness suffering slaves,108,8,4,4,0.377964473,0.755928946,0.755928946,0,0.5,1,0.666666667
+178,law of equality retribution murder slave woman       ,law of equality retribution murder slave woman,retribution equality law woman of murder slave,75,7,7,7,0.463586325,1,1,0,1,1,1
+179,law of equality save yourself          ,law of equality save yourself,equality law save of yourself,22,5,5,5,0.333333333,1,1,0,1,1,1
+180,death bequest goods distribution         ,death bequest goods distribution,distribution bequest goods death,35,4,4,4,0.387298335,1,1,0,1,1,1
+181,changes bequest guilty Allah knows         ,changes bequest guilty Allah knows,bequest changes Allah guilty knows,25,5,5,5,0.516397779,1,1,0,1,1,1
+182,partiality wrong doing merciful         ,partiality wrong doing merciful,doing wrong merciful partiality,34,4,4,4,0.560112034,1,1,0,1,1,1
+183,fast compulsory self restraint         ,fast compulsory self restraint,restraint fast self compulsory,23,4,4,4,0.267261242,1,1,0,1,1,1
+184,fast ill journey         ,fast ill journey,journey ill fast,75,3,3,3,0.306186218,1,1,0,1,1,1
+185,ramadhan Quran guidance judgment glorify       ,ramadhan Qur'an guidance judgment glorify,ramadhan judgment glorify guidance,104,5,5,4,0.301511345,1,0.894427191,0,0.8,0.8,0.8
+186,I am close prayer believe right way        ,I am close prayer believe right way,close believe  prayer  right way,48,7,7,5,0.476731295,1,1,0,0.714285714,0.714285714,0.714285714
+187,fast approatch wife garments limits Allah       ,fast approatch wife garments limits,approatch fast wife limits garments,120,6,5,5,0.352180363,0.912870929,0.912870929,0.1674,0.833333333,1,0.909090909
+188,property vanities          ,property vanities,vanities property,35,2,2,2,0.474341649,1,1,0,1,1,1
+189, moon time pilgrimage         ,moon time pilgrimage,moon time pilgrimage,58,3,3,3,0.166666667,1,1,0,1,1,1
+190,fight Allah transgress         ,fight Allah transgress,transgress fight Allah,20,3,3,3,0.800640769,1,1,0,1,1,1
+191,slay sacred mosque faith fight        ,slay sacred mosque faith fight,fight faith sacred slay mosque,56,5,5,5,0.664363839,1,1,0,1,1,1
+192,Allah merciful forgiving cease        ,Allah merciful forgiving cease,forgiving cease Allah merciful,9,4,4,4,0.75,1,1,0,1,1,1
+193,fight tumult oppression justice        ,fight tumult oppression justice,oppression fight tumult justice,35,4,4,4,0.645497224,1,1,0,1,1,1
+194,prohibited months law of equality          ,prohibited months law of equality,prohibited equality law of months,46,5,5,5,0.464238345,1,1,0,1,1,1
+195,cause of Allah spend substance do good        ,cause of Allah spend substance do good,good substance spend Allah of cause do,30,7,7,7,0.782623792,1,1,0,1,1,1
+196,hajj umra animal destination sacrifies       ,hajj umra animal hajj umra,umra animal hajj,153,5,5,3,0.214176468,0.745355992,0.774596669,0.4053,0.6,0.6,0.6
+197,perform hajj obscenity wickedne         ,hajj obscenity wickedness,hajj obscenity,61,4,3,2,0.261116484,0.577350269,0.707106781,0.243,0.5,0.666666667,0.571428571
+198,Arafat celebrate praise Muzdalfa        ,pilgramage Arafat praises of Allah,Arafat,50,4,5,1,0.261116484,0.25,0.5,0.2543,0.25,0.2,0.222222222
+199,forgiveness merciful          ,forgiveness merciful,forgiveness merciful,31,2,2,2,0.39223227,1,1,0,1,1,1
+200,holy rites Hajj praises of Allah         ,holy rites Hajj praises of Allah,holy rites Allah of Hajj praises,53,6,6,6,0.395284708,1,1,0,1,1,1
+201,good  world fire torment hereafter        ,good  world fire torment hereafter,good torment fire hereafter world,28,5,5,5,0.650791373,1,1,0,1,1,1
+202,alloted  earned quick account        ,allotee earn Allah quick,quick,15,4,4,1,0.670820393,0.25,0.5,0,0.25,0.25,0.25
+203,Allah praises appointed day         ,Allah praises appointed day,praises appointed Allah day,57,4,4,4,0.359210604,1,1,0,1,1,1
+204, contentious           ,contentious,contentious,35,1,1,1,0.25,1,1,0,1,1,1
+205,mischief crops cattle         ,mischief crops cattle,crops mischief cattle,25,3,3,3,0.596284794,1,1,0,1,1,1
+206,pride hell fear sin        ,pride hell fear sin,fear sin pride hell,27,4,4,4,0.416025147,1,1,0,1,1,1
+207,pleasure of Allah           ,pleasure of Allah,pleasure Allah of,26,3,3,3,0.588348405,1,1,0,1,1,1
+208,adopt islam foot steps of  evil          ,entere into islam footsteps of evil,evil islam of,25,6,6,3,0.269679945,0.447213595,0.632455532,0,0.5,0.5,0.5
+209,backslide clear signs Allah powerful wise        ,backslide clear signs Allah powerful wise,clear signs Allah wise powerful backslide,20,6,6,6,0.645497224,1,1,0,1,1,1
+210,wait for torment           ,wait for Allah canopy clouds angels,for wait,33,3,6,2,0.171498585,0.316227766,0.707106781,0.16432,0.666666667,0.333333333,0.444444444
+211,punishhment children of Israel clear sign strict        ,children israel punishment,children,32,7,3,1,0.396059017,0.471404521,0.40824829,0.2134,0.142857143,0.333333333,0.2
+212,alluring faith righteous day of judgement        ,alluring faith righteous day of judgement,alluring righteous day of faith judgement,42,6,6,6,0.461880215,1,1,0,1,1,1
+213,one religion Messenger book judge Allah guide       ,oneness of mankind Messenger book judge Allah guide,judge Allah Messenger book guide,81,7,8,5,0.341565026,0.714285714,0.845154255,0,0.714285714,0.625,0.666666667
+214,heaven trials God's help         ,heaven trial suffering  messenger,heaven,64,4,4,1,0.25,0.25,0.5,0.1643,0.25,0.25,0.25
+215,charity parents kindres orphans Allah knoweth       ,charity parents kindres orphans Allah knoweth,kindres parents Allah orphans charity knoweth,41,6,6,6,0.385758375,1,1,0,1,1,1
+216,fight like dislike Allah knoweth        ,fight like dislike Allah knoweth,like fight Allah dislike knoweth,41,5,5,5,0.311399578,1,1,0,1,1,1
+217,sacred mosque operession fruit prohibited months  hereafter companion of fire     ,fighting prohibited months  hereafter companion of fire,prohibited of companion fire hereafter months,110,10,7,6,0.242535625,0.680413817,0.745355992,0.1243,0.6,0.857142857,0.705882353
+218,believer path of Allah successful         ,believer path of Allah fought,believer Allah path of,35,5,5,4,0.43643578,0.75,0.866025404,0.1721,0.8,0.8,0.8
+219,gambling wine loss spend more than need       ,gambling wine loss spend more than need,loss wine gambling need spend than more,56,7,7,7,0.212132034,1,1,0,1,1,1
+220,orphans do good exalted power         ,orphans do good exalted power,exalted good orphans do power,69,5,5,5,0.395284708,1,1,0,1,1,1
+221,marry idolaters slave         ,marry idolaters slave,idolaters slave marry,83,3,3,3,0.360843918,1,1,0,1,1,1
+222,women courses           ,women courses,women courses,71,2,2,2,0.32349832,1,1,0,1,1,1
+223,tilth onto you fear Allah good news for believers         ,tilth oness fear Allah good news for believers,fear for believers good tilth Allah news,49,9,8,7,0.44474959,0.857142857,0.9258201,0,0.777777778,0.875,0.823529412
+224, excuse oaths          ,excuse oaths,oaths excuse,31,2,2,2,0.353553391,1,1,0,1,1,1
+225,oath forbearing          ,oath forbearing,oath forbearing,25,2,2,2,0.23570226,1,1,0,1,1,1
+226,oath waiting return         ,oath waiting return,oath return waiting,27,3,3,3,0.5,1,1,0,1,1,1
+227,divorce Allah knoweth          ,divorce Allah knoweth,knoweth divorce Allah,14,3,3,3,0.654653671,1,1,0,1,1,1
+228,three periods husband degree divorce        ,three periods degree,periods three degree,86,5,3,3,0.186052102,0.774596669,0.774596669,0.2314,0.6,1,0.75
+229,divorce twice hold together separate limits of God        ,divorce twice hold together separate limits of God,twice of God hold together divorce separate limits,117,8,8,8,0.335177515,1,1,0,1,1,1
+230,divorce reunite re-marry halala        ,divorce re-marry reunite halala,divorce re-marry reunite halala,67,4,4,4,0.171498585,1,1,0,1,1,1
+231,iddat jest injure behave well Allah knoweth       ,divorce women iddat take back  injure jest rehearse Allah favour well acquainted,jest well injure Allah iddat,94,7,12,5,0.292770022,0.545544726,0.845154255,0.1324,0.714285714,0.416666667,0.526315789
+232,divorce woman iddat marry again Allah knoweth        ,divorce marry again Allah knoweth,again Allah divorce knoweth marry,62,7,5,5,0.276026224,0.816496581,0.816496581,0.1252,0.714285714,1,0.833333333
+233,mother feed two year bear cost         ,mother feed two year bear cost,mother two bear feed cost year,132,6,6,6,0.225493808,1,1,0,1,1,1
+234,widow iddat Allah knows         ,widow iddat Allah knows,widow Allah iddat knows,51,4,4,4,0.109108945,1,1,0,1,1,1
+235,betrothal Allah knoweth forgiving         ,betrothal Allah knoweth forgiving,betrothal knoweth Allah forgiving,77,4,4,4,0.34340141,1,1,0,1,1,1
+236,dower pay wealthy  poor        ,dower pay wealthy  poor,poor wealthy pay dower,55,4,4,4,0.278543007,1,1,0,1,1,1
+237,divorce dower Allah knows         ,divorce dower Allah knows,divorce Allah dower knows,72,4,4,4,0.316227766,1,1,0,1,1,1
+238,middle prayer devout          ,middle prayer devout,middle devout prayer,20,3,3,3,0.5,1,1,0,1,1,1
+239,prayer praise Allah          ,prayer praise Allah,praise Allah prayer,36,3,3,3,0,1,1,0,1,1,1
+240,bequeth widow provision exalted power        ,bequeath leave widow Allah is exalted  powerful  wise,exalted widow,47,5,8,2,0.186500962,0.338061702,0.632455532,0.2435,0.4,0.25,0.307692308
+241,divorce maintece duty         ,divorce maintenance duty,divorce duty,18,3,3,2,0.204124145,0.666666667,0.816496581,0,0.666666667,0.666666667,0.666666667
+242,Allah order understand          ,Allah order understand,order Allah understand,15,3,3,3,0.547722558,1,1,0,1,1,1
+243,fear of death ungreatful          ,fear of death ungreatful,fear ungreatful of death,47,4,4,4,0.240771706,1,1,0,1,1,1
+244,fight for Allah Allah knoweth heareth         ,fight for Allah Allah knoweth heareth,for heareth fight Allah knoweth,16,6,6,5,0.836660027,1,0.944911183,0,0.833333333,0.833333333,0.833333333
+245,loan to Allah multiple return          ,loan to Allah multiple return,loan to Allah return multiple,38,5,5,5,0.6,1,1,0,1,1,1
+246,fight for Allah king turned back Allah knoweth        ,fight for Allah king turned back Allah knoweth,turned for back king fight Allah knoweth,111,8,8,7,0.547188454,1,0.952579344,0,0.875,0.875,0.875
+247,Talut King Allah knoweth         ,Talut King Allah knoweth,knoweth King Allah Talut,77,4,4,4,0.41537358,1,1,0,1,1,1
+248,ark transquality Moses Aaron        ,ark Moses Aaron security,Moses ark Aaron,62,4,4,3,0.294174203,0.75,0.866025404,0,0.75,0.75,0.75
+249,test  stream steadfastly         ,test  stream steadfast,stream test,111,3,3,2,0.227429413,0.666666667,0.816496581,0,0.666666667,0.666666667,0.666666667
+250,pray help faith         ,pray help faith,pray faith help,30,3,3,3,0.272165527,1,1,0,1,1,1
+251,David slew Goliath         ,David slew Goliath,Goliath slew David,55,3,3,3,0.284747399,1,1,0,1,1,1
+252,signs of Allah Muhammad  messenger         ,signs of Allah Muhammad  messenger,messenger signs Muhammad Allah of,20,5,5,5,0.316227766,1,1,0,1,1,1
+253,Messenger holy spirit Jesus 'honour        ,Messenger holy spirit Jesus,Jesus holy spirit Messenger,87,5,4,4,0.213808994,0.894427191,0.894427191,0.01254,0.8,1,0.888888889
+254,spend out friendship          ,spend out friendship,spend friendship out,35,3,3,3,0.377964473,1,1,0,1,1,1
+255,Allah is one  ever living self subsisting slumber not tries       ,Allah is one  ever living self subsisting slumber not tried,one not Allah is slumber self subsisting living ever,96,10,10,9,0.159900537,0.875,0.935414347,0,0.9,0.9,0.9
+256,right wrong false deities firm handhold break       ,no compulsion religion,,36,7,3,1,0.077151675,0,1,1,0.142857143,0.333333333,0.2
+257,faith           ,faith,faith,56,1,1,1,0.338061702,1,0.707106781,0,1,1,1
+258,dumbfound Abraham dispute rise  west reject faith      ,dumbfound Abraham dispute rise  west,dispute west rise Abraham dumbfound,83,7,5,5,0.307562343,0.845154255,1,0,0.714285714,1,0.833333333
+259,over turned bring to life change with time raise         ,ruins bring to life change with time raise,bring to time change life raise with,139,9,8,7,0.111340443,0.833333333,1,0.1252,0.777777778,0.875,0.823529412
+260,raise up death  reassure four birds pieces call them will be back     ,raise the dead  reassure heart four bird,four raise reassure,63,12,7,3,0.396296962,0.433012702,1,0,0.25,0.428571429,0.315789474
+261,grain corn spent gain more Allah knoweth       ,spend substance corn,corn,49,7,3,1,0.454858826,0.23570226,1,0.7214,0.142857143,0.333333333,0.2
+262,spend substance reward fear grieve        ,spend substance reward fear grieve,fear grieve substance spend reward,41,5,5,5,0.542326145,1,0.577350269,0,1,1,1
+263,kind words covering faults  charity         ,kind words covering faults  charity,words kind faults charity covering,24,5,5,5,0.645497224,1,1,0,1,1,1
+264,charity generosity un believer last day no guidance reject faith      ,charity un Believe no Allah last day un charitable,last no day charity un,84,10,9,5,0.301511345,0.527046277,1,0,0.5,0.555555556,0.526315789
+265,spend substance please Allah like garden         ,spend substance please Allah like garden,substance like spend Allah please garden,56,6,6,6,0.40824829,1,1,0,1,1,1
+266,garden date  palm vines old age wind  fire     ,garden date-palm vines old age wind  fire,old wind vines fire age garden,70,8,7,6,0.322748612,0.801783726,0.755928946,0,0.75,0.857142857,0.8
+267,spend things given by Allah          ,spend things given by Allah,by spend Allah given things,74,5,5,5,0.144337567,1,0.774596669,0,1,1,1
+268,poverty evil threaten Allah forgive bounty      ,poverty evil treath forgiveness bounty,poverty evil bounty,30,6,5,3,0.396059017,0.547722558,0.755928946,0,0.5,0.6,0.545454545
+269,wisdom please Allah          ,wisdom please Allah,wisdom please Allah,29,3,3,3,0.288675135,1,0.912870929,0,1,1,1
+270,charity Allah knoweth          ,charity Allah knoweth,knoweth Allah charity,20,3,3,3,0.365148372,1,0.774596669,0,1,1,1
+271,disclose charity conceal remove sin        ,disclose charity conceal remove sin,remove sin disclose conceal charity,49,5,5,5,0.338061702,1,0.832050294,0,1,1,1
+272,o messenger responsible right path         ,o messenger responsible right path,o messenger responsible right path,63,5,5,5,0.314970394,1,1,0,1,1,1
+273,wrapped up move about restraint mark importunity charity      ,charity restricted move about modesty,about move charity,68,8,5,3,0.210042013,0.40824829,1,0.2534,0.375,0.6,0.461538462
+274,reward charity Lord no fear        ,reward charity Lord no fear no grieve,fear Lord no charity reward,34,5,7,5,0.516397779,0.894427191,1,0,1,0.714285714,0.833333333
+275,usury evil fire live forever        ,usury evil fire live forever,evil usury live forever fire,78,5,5,5,0.301511345,1,1,0,1,1,1
+276,deprive usury blessing charity        ,deprive usury blessing charity,usury deprive blessing charity,23,4,4,4,0.577350269,1,1,0,1,1,1
+277,reward of believer believe righteousness prayer charity fear      ,reward of believer charity fear,fear of believer charity reward,32,8,5,5,0.445435403,0.755928946,0.755928946,0,0.625,1,0.769230769
+278,fear Allah believe give up usur         ,fear Allah give up usury believer,fear Allah give up,21,6,6,4,0.496138938,0.6,0.774596669,0,0.666666667,0.666666667,0.666666667
+279,take notice giveup usuar war with Allah Messenger        ,take notice war Allah messenger,take war Allah notice,36,8,5,4,0.319438282,0.845154255,0.755928946,0,0.5,0.8,0.615384615
+280,borrower difficulty grant time charity borrow        ,borrower difficulty grant time charity,time charity grant borrower difficulty,36,6,5,5,0.40824829,0.912870929,0.912870929,0,0.833333333,1,0.909090909
+281,fear Day of Judgment decision unjustify        ,fear Day of Judgment,fear Day Judgment of,28,6,4,4,0.190692518,0.774596669,0.774596669,0,0.666666667,1,0.8
+282,document agrements carefully document  witness fear Allah Allah knoweth      ,document liability witness fear Allah trust,fear document Allah witness,321,9,6,4,0.245358246,0.67936622,0.832050294,0,0.444444444,0.666666667,0.533333333
+283,pledge trust          ,pledge trust,trust pledge,64,2,2,2,0.33968311,1,1,0,1,1,1
+284,Allah belongeth all' heaven earth forgive        ,Allah belongeth all heaven earth forgive Allah hath power,belongeth Allah forgive heaven earth,47,6,9,5,0.422577127,0.848528137,1,0,0.833333333,0.555555556,0.666666667
+285,Messenger believe faith angels books forgiveness      ,Messenger believe faith angels books forgiveness,books forgiveness angels believe Messenger faith,69,6,6,6,0.326860225,1,1,0,1,1,1
+286,capacity burden strength earn sin forgiveness mercy help    ,strength bear,strength,99,8,2,1,0.22406454,0.25,0.353553391,0.5142,0.125,0.5,0.2
+,,,TOTAL,12379,1205,1146,985,108.3479508,251.4655582,259.2877882,19.02306274,243.9416667,251.1146825,245.622858
+,,Mean,Avg,43.44,4.23,4.02,3.46,0.38,0.88,0.91,0.066514205,0.855935673,0.881104149,0.861834589
+,,,%age,,,,,,,,6.65,86,88,86
+,,,Median,35,4,4,3,0.379049022,1,1,0,1,1,1
+,,,mode ,25,3,3,3,0.577350269,1,1,0,1,1,1
